@@ -31,16 +31,22 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
-    description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+    title: "To-do list Website",
+    description: 
+      "It is a website which allows users to make their own to-do list and it's completely user interactive and 'Dynamic Website'.",
+    url : "https://balasritodolist.ccbp.tech/",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Food-Munch Website",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "It is a restaurant website which includes menu, offers & delivery and payment details etc, and it's completely 'Responsive website'.",
+    url: "https://balasrifoodcort.ccbp.tech/",
+  },
+  {
+    title: "Tourism Website",
+    description:
+      "A tourism website where you can explore each tourist spot and their detailed view and it's completely a 'Static website'.",
+    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
   },
   {
     title: "My Resume Site",
@@ -48,12 +54,7 @@ const projectList = [
       "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
     url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
   },
-  {
-    title: "GitHub Codespaces and github.dev",
-    description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
-  },
+  
 ];
 
 const Portfolio = () => {
